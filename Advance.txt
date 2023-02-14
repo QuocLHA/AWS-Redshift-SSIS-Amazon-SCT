@@ -1,0 +1,4 @@
+Type;TimeLoader
+ETL_SSIS_ON-premises;6s253ms
+ETL_T-SQL_ON-premises;1s856ms
+ETL_T-SQL_Cloud;13s728ms
